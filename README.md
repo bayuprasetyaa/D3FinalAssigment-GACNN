@@ -4,4 +4,7 @@ Looking for the best parameters using a genetic algorithm
 
 ## How To use
 
-Run main.py
+- Choose Dataset:
+  Entry the data path in "train.py"
+
+- Run main.py
