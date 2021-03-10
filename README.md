@@ -1,4 +1,4 @@
-# D3FinalAssigment-GACNN
+# GACNN
 Looking for the best parameters using a genetic algorithm
 
 
